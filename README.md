@@ -1,2 +1,2 @@
 # Hello-World
-Testing git
+This is a testing under the program of josh technology
